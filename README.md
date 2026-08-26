@@ -1,7 +1,7 @@
 ![Badge Conclúido](https://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=green&style=flat-square)
 
 # Fooyin Hatsune Miku Theme
-Tema personalizado em CSS para Fooyin baseado na Hatsune Miku.
+Tema personalizado para o Fooyin baseado na Hatsune Miku.
 
 Fiz esse tema através da ferramente de edição nativa do software. Apenas uma customização simples com algumas artes ASCII que achei bonitas. Completamente editável a gosto do usuário.
 
